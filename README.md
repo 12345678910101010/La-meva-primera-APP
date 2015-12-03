@@ -1,7 +1,12 @@
-# PhoneGap-Test
+# La meva primera APP
 
-Test Bàsic de PhoneGap
-29/11/2015
+La meva APP feta per :
+Gabriela Mariscal Toledo
+Pablo Pereira De Melo
+
+03/12/2015
+
+
 
 
 Informàtica 4t ESO 2015 2016
